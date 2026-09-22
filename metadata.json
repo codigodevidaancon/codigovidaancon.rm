@@ -1,0 +1,6 @@
+{
+  "name": "Código Vida - Scanner y Emergencia",
+  "description": "Identificación y auxilio rápido para personas con habilidades diferentes. Escaneo QR, guardado local offline, sincronización automática con la nube y exportación a PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
